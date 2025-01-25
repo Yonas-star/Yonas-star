@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yonas-star
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web 3
 - 💞️ I’m looking to collaborate on IAM
-- 📫 How to reach me 
+- 📫 How to reach me yonaskassahunyoka@gmail.com
 - 😄 Pronouns: Yoni
 - ⚡ Fun fact: Good
 
